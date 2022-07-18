@@ -4,6 +4,12 @@
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
       </div>
+        <div class="flex flex-col w-full xl:w-2/5">
+        <img
+          alt="代表的な路線（氷部鉄道）"
+          src="/app/static/images/uploads/15573_adv.png"
+        />
+      </div>
     </div>
   </section>
 </template>
