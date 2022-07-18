@@ -7,7 +7,7 @@
         <div class="flex flex-col w-full xl:w-2/5">
         <img
           alt="代表的な路線（氷部鉄道）"
-          src="/app/static/images/uploads/15573_adv.png"
+          src="https://the-ta.f5.si/15573_adv.png"
         />
       </div>
     </div>
