@@ -5,10 +5,15 @@
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
       </div>
         <div class="flex flex-col w-full xl:w-2/5">
+        <figure>
         <img
-          alt="代表的な路線（氷部鉄道）"
-          src="https://the-ta.f5.si/15573_adv.png"
+          alt="彩源メトロ（拡大、文字なし）"
+          src="https://the-ta.f5.si/saigen_adv.svg"
         />
+        <figcaption>
+        代表的な路線（彩源メトロ）
+        </figcaption>
+        </figure>
       </div>
     </div>
   </section>
