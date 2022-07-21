@@ -11,7 +11,7 @@
           src="https://the-ta.f5.si/saigen_adv.svg"
         />
         <figcaption>
-        <u><代表的な路線（彩源メトロ）</u>
+        <u>代表的な路線（彩源メトロ）</u>
         </figcaption>
         </figure>
       </div>
