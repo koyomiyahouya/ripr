@@ -53,9 +53,9 @@ collections:
       - { label: 'Featured Image', name: featuredImage, widget: image, required: false }
       - { label: 'SEO Description', name: seoDescription, widget: text, required: false }
       - { label: 'SEO Meta Image', name: seoMetaImage, widget: image, required: false }
-  - name: 'blog'
-    label: 'blog'
-    folder: 'app/content/blog'
+  - name: 'route'
+    label: 'route'
+    folder: 'app/content/route'
     create: true
     slug: '{{slug}}'
     format: 'json'
